@@ -1,0 +1,6 @@
+<_num, 1>
+<num_, 2>
+<n_umber, 3>
+<cou_se, 4>
+<course_, 5>
+<_flag, 6>
